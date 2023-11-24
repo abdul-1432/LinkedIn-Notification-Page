@@ -4,9 +4,7 @@ This project is a recreation of the LinkedIn notification page using HTML, CSS, 
 
 ## Preview
 
-![LinkedIn Notification Page](preview.png)
-
-You can also check out the live demo [here](#).
+![1](https://github.com/abdul-1432/LinkedIn-Notification-Page/assets/124916666/27c3e6e5-8b38-467e-b5da-f2fc55458db2)
 
 ## Features
 
