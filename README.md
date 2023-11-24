@@ -17,7 +17,7 @@ This project is a recreation of the LinkedIn notification page using HTML, CSS, 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/linkedin-notification-page.git
+   git clone https://github.com/abdul-1432/LinkedIn-Notification-Page/tree/main
    ```
 
 2. Open the `index.html` file in your preferred web browser.
